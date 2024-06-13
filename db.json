@@ -1,0 +1,45 @@
+{
+  "enquiry": [
+    {
+      "id": "fb39",
+      "firstName": "Sebastian",
+      "lastName": "Patitucci",
+      "email": "patitucciivo@gmail.com",
+      "mobile": "11-1231-1231",
+      "weight": 63,
+      "height": 1.78,
+      "bmi": 19.883853048857468,
+      "bmiResult": "Normal",
+      "gender": "Male",
+      "requireTrainer": "No",
+      "package": "Yearly",
+      "important": [
+        "Energy and Endurance",
+        "Building Lean Muscle",
+        "Fitness"
+      ],
+      "haveGymBefore": "Yes",
+      "enquiryDate": "2024-06-15T03:00:00.000Z"
+    },
+    {
+      "id": "a6cd",
+      "firstName": "Miguel ",
+      "lastName": "Merentiel",
+      "email": "merentiel@gmail.com",
+      "mobile": "11-8797-4543",
+      "weight": 78,
+      "height": 1.86,
+      "bmi": 22.54595907041276,
+      "bmiResult": "Normal",
+      "gender": "Male",
+      "requireTrainer": "Yes",
+      "package": "Monthly",
+      "important": [
+        "Toxic Fat reduction",
+        "Fitness"
+      ],
+      "haveGymBefore": "No",
+      "enquiryDate": "2024-06-14T03:00:00.000Z"
+    }
+  ]
+}
